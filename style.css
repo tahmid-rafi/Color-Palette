@@ -1,0 +1,56 @@
+body{
+     background-image: url(image/leaves-3840x2160-green-rain-drops-26004.jpeg);
+     background-repeat: no-repeat;
+     background-size: cover;
+     
+ }
+
+.p1{
+     color: white;
+     font-size: 30px;
+     text-align: center;
+}
+
+.p2{
+     font-size: 20px;
+     font-weight: bolder;
+}
+.p3{
+     color: white;
+     font-size: 20px;
+     font-weight: bolder;
+}
+
+
+.main div{
+     width: 400px;
+     height: 60px;
+     margin: auto;
+     text-align: center;
+     padding: 20px;
+     border-radius: 10px;
+     margin-top: 20px;
+}
+
+.c1{
+     background-color: #A5Ec60;
+
+}
+.c2{
+     background-color: #419310;
+
+}
+.c3{
+     background-color: #1C621B;
+}
+.c4{
+     background-color: #487070;
+}
+
+.c5{
+     background-color:#18333D;
+}
+
+.c6{
+     background-color: #0B1E26;
+}
